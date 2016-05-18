@@ -1,0 +1,1 @@
+### A boilerplate Rails app with User signup/login functionality from [Rails Turorial](https://www.railstutorial.org/), which can be used as a basis for the apps that require User model.    
